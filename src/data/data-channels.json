@@ -1,0 +1,40 @@
+{
+"data" : [
+  { 
+    "name": "Email",
+    "code": "emid",
+    "icon": "bx bxs-envelope",
+    "actv": true
+  },
+  { 
+    "name": "WhatsApp",
+    "code": "whts",
+    "icon": "bx bxl-whatsapp-square",
+    "actv": true
+  },
+  { 
+    "name": "Telegram",
+    "code": "tele",
+    "icon": "bx bxl-telegram",
+    "actv": false
+  },
+  { 
+    "name": "Discord",
+    "code": "dscd",
+    "icon": "bx bxl-discord-alt",
+    "actv": false
+  },
+  { 
+    "name": "Twitter",
+    "code": "twtr",
+    "icon": "bx bxl-twitter",
+    "actv": false
+  },
+  { 
+    "name": "SMS",
+    "code": "text",
+    "icon": "bx bxs-message-square-dots",
+    "actv": false
+  }
+]
+}

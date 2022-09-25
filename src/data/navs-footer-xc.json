@@ -1,0 +1,37 @@
+{
+  "data" : [      
+    { 
+      "name":"Home",
+      "text":"", "icon":"bx bxs-home-circle",
+      "link":"home",
+      "user":["indx", "bznx"],
+      "subs":["lite"],
+      "actv":true
+    },
+    { 
+      "name":"Network",
+      "text":"", "icon":"bx bxs-user-circle",
+      "link":"network",
+      "user":["bznx"],
+      "subs":["lite"],
+      "actv":true
+    },
+    { 
+      "name":"Store",
+      "text":"", "icon":"bx bxs-palette",
+      "link":"store",
+      "user":["bznx"],
+      "subs":["lite"],
+      "actv":true
+    },
+
+    { 
+      "name":"Transfers",
+      "text":"", "icon":"bx bxs-check-circle",
+      "link":"transfers",
+      "user":["bznx"],
+      "subs":["lite"],
+      "actv":true
+    }
+  ]
+}

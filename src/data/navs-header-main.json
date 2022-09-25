@@ -1,0 +1,31 @@
+{
+  "data" : [      
+    { 
+      "name":"Home",
+      "text":"", 
+      "icon":"bi-house-door",
+      "link":"home",
+      "user":["indx", "bznx"],
+      "subs":["lite"],
+      "actv":true
+    },
+    { 
+      "name":"Transfers",
+      "text":"", 
+      "icon":"bi-check-circle",
+      "link":"transfers",
+      "user":["indx", "bznx"],
+      "subs":["lite"],
+      "actv":false
+    },
+    { 
+      "name":"Memo",
+      "text":"", 
+      "icon":"bi-check-circle",
+      "link":"memo",
+      "user":["indx", "bznx"],
+      "subs":["lite"],
+      "actv":false
+    }
+  ]
+}

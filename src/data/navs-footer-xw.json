@@ -1,0 +1,28 @@
+{
+  "data" : [
+    { 
+      "name":"About",
+      "text":"", 
+      "icon":"bi-house-door",
+      "link":"about",
+      "user":["ww"],
+      "actv":true
+    },
+    { 
+      "name":"Terms",
+      "text":"", 
+      "icon":"bi-house-door",
+      "link":"terms",
+      "user":["ww"],
+      "actv":true
+    },
+    { 
+      "name":"Privacy Policy",
+      "text":"", 
+      "icon":"bi-house-door",
+      "link":"privacy-policy",
+      "user":["ww"],
+      "actv":true
+    }
+  ]
+}

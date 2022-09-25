@@ -1,0 +1,27 @@
+{
+  "data" : [
+    {
+      "name": "Polygon",
+      "crnc": "MATIC",
+      "mode": "TEST",
+      "code": "80001",
+      "avtr": "X",
+      "cont": "0x63279649321a1C4B9c97Da83b5c4a3D834424226",
+      "urin": "https://rpc-mumbai.maticvigil.com/",
+      "actv": true
+    },
+    {
+      "name": "Polygon",
+      "crnc": "MATIC",
+      "mode": "MAIN",
+      "code": "137",
+      "avtr": "X",
+      "cont": "0x907F8AE71cf95E0F448578c9550834BBa661E6B6",
+      "urin": "https://polygon-rpc.com",
+      "actv": false
+    }
+  ]
+}
+
+
+

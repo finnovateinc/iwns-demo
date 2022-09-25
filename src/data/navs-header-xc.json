@@ -1,0 +1,37 @@
+{
+  "data" : [      
+    { 
+      "name":"IWNS",
+      "text":"", "icon":"bi-house-door",
+      "link":"home",
+      "user":["indx", "bznx"],
+      "subs":["lite"],
+      "actv":true
+    },
+    { 
+      "name":"Network",
+      "text":"", "icon":"bi-check-circle",
+      "link":"network",
+      "user":["bznx"],
+      "subs":["lite"],
+      "actv":true
+    },
+    { 
+      "name":"Store",
+      "text":"", "icon":"bi-people",
+      "link":"store",
+      "user":["bznx"],
+      "subs":["lite"],
+      "actv":true
+    },
+
+    { 
+      "name":"Transfers",
+      "text":"", "icon":"bi-check-circle",
+      "link":"transfers",
+      "user":["bznx"],
+      "subs":["lite"],
+      "actv":true
+    }
+  ]
+}

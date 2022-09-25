@@ -1,0 +1,40 @@
+{
+  "data" : [ 
+    { 
+      "name": "Accounts",
+      "text": "Account List", 
+      "icon": "bx bx-wallet-alt",
+      "avtr": "",
+      "link": "accounts/create",
+      "user": ["indx", "bznx"],
+      "actv": true
+    },
+    { 
+      "name": "Channels",
+      "text": "Channels List", 
+      "icon": "bx bx-message-square-dots",
+      "avtr": "",
+      "link": "channels/new",
+      "user": ["indx", "bznx"],
+      "actv": true
+    },
+    { 
+      "name": "Invite",
+      "text": "Invite", 
+      "icon": "bx bx-user-circle",
+      "avtr": "",
+      "link": "transfers/debit",
+      "user": ["indx", "bznx"],
+      "actv": true
+    },
+    { 
+      "name": "Help",
+      "text": "Help", 
+      "icon": "bx bx-help-circle",
+      "avtr": "",
+      "link": "assist",
+      "user": ["indx", "bznx"],
+      "actv": true
+    }
+  ]
+}
